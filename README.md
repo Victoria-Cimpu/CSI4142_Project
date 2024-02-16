@@ -1,6 +1,6 @@
-## CSI 4142 Project 
+# CSI 4142 Project 
 
-# Group 28
+## Group 28
 
 Victoria Cimpu <br>
 Nidhi Pareshkumar Thakkar <br>
