@@ -10,7 +10,7 @@ DELIMITER ','
 CSV HEADER;
 SELECT * FROM date; 
 
-COPY product_nutrition(product_nutrition_key, pn_calories, pn_protein, pn_fat, pn_fiber, pn_sat_fat, pn_carb)
+COPY product_nutrition(product_nutrition_key, pn_calories, pn_protein, pn_fat, pn_fiber, pn_sat_fat, pn_carb, pn_multiplier)
 FROM 'C:\Users\Public\Nutrient_data.csv'
 DELIMITER ','
 CSV HEADER;

@@ -21,7 +21,8 @@ CREATE TABLE product_nutrition (
 	pn_protein 			DECIMAL,
 	pn_fat				DECIMAL,
 	pn_sat_fat			DECIMAL,
-	pn_carb				DECIMAL
+	pn_carb				DECIMAL,
+	pn_multiplier		DECIMAL
 );
 
 CREATE TABLE product (
