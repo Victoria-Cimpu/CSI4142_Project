@@ -1,0 +1,308 @@
+Location Key,Province/Territory,Population,Climate,GDP (Millions)
+1,Canada,36313068,continental,6175637.0
+2,Newfoundland and Labrador,530175,humid continental,97567.0
+3,Prince Edward Island,147811,humid continental,19603.0
+4,Nova Scotia,947023,eastern-maritime,124436.0
+5,New Brunswick,764612,semi-continental,102717.0
+6,Quebec,8252179,semi-continental,1200434.0
+7,Ontario,13975516,semi-continental,2372230.0
+8,Manitoba,1324044,cold continental,205297.0
+9,Saskatchewan,1141537,humid continental,233079.0
+10,Alberta,4215506,prairie-steppe,971828.0
+11,British Columbia,4894147,western maritime,815079.0
+12,Canada,36397141,continental,6175637.0
+13,Newfoundland and Labrador,529700,humid continental,97567.0
+14,Prince Edward Island,148354,humid continental,19603.0
+15,Nova Scotia,948945,eastern-maritime,124436.0
+16,New Brunswick,764859,semi-continental,102717.0
+17,Quebec,8265839,semi-continental,1200434.0
+18,Ontario,14012209,semi-continental,2372230.0
+19,Manitoba,1328337,cold continental,205297.0
+20,Saskatchewan,1143829,humid continental,233079.0
+21,Alberta,4224933,prairie-steppe,971828.0
+22,British Columbia,4908971,western maritime,815079.0
+23,Canada,36545075,continental,6175637.0
+24,Newfoundland and Labrador,529742,humid continental,97567.0
+25,Prince Edward Island,149740,humid continental,19603.0
+26,Nova Scotia,952159,eastern-maritime,124436.0
+27,New Brunswick,766697,semi-continental,102717.0
+28,Quebec,8292832,semi-continental,1200434.0
+29,Ontario,14078499,semi-continental,2372230.0
+30,Manitoba,1334734,cold continental,205297.0
+31,Saskatchewan,1147315,humid continental,233079.0
+32,Alberta,4237310,prairie-steppe,971828.0
+33,British Columbia,4934202,western maritime,815079.0
+34,Canada,36722075,continental,6175637.0
+35,Newfoundland and Labrador,530153,humid continental,97567.0
+36,Prince Edward Island,150595,humid continental,19603.0
+37,Nova Scotia,956074,eastern-maritime,124436.0
+38,New Brunswick,768029,semi-continental,102717.0
+39,Quebec,8326075,semi-continental,1200434.0
+40,Ontario,14161084,semi-continental,2372230.0
+41,Manitoba,1340426,cold continental,205297.0
+42,Saskatchewan,1151044,humid continental,233079.0
+43,Alberta,4253530,prairie-steppe,971828.0
+44,British Columbia,4962706,western maritime,815079.0
+45,Canada,36801579,continental,6455467.0
+46,Newfoundland and Labrador,529743,humid continental,100218.0
+47,Prince Edward Island,150619,humid continental,20185.0
+48,Nova Scotia,956711,eastern-maritime,128950.0
+49,New Brunswick,768146,semi-continental,106563.0
+50,Quebec,8338883,semi-continental,1261765.0
+51,Ontario,14199811,semi-continental,2478223.0
+52,Manitoba,1344198,cold continental,211358.0
+53,Saskatchewan,1152366,humid continental,242701.0
+54,Alberta,4263957,prairie-steppe,1012518.0
+55,British Columbia,4974712,western maritime,858450.0
+56,Canada,36903671,continental,6455467.0
+57,Newfoundland and Labrador,528924,humid continental,100218.0
+58,Prince Edward Island,151008,humid continental,20185.0
+59,Nova Scotia,957883,eastern-maritime,128950.0
+60,New Brunswick,768707,semi-continental,106563.0
+61,Quebec,8354460,semi-continental,1261765.0
+62,Ontario,14251136,semi-continental,2478223.0
+63,Manitoba,1346916,cold continental,211358.0
+64,Saskatchewan,1153530,humid continental,242701.0
+65,Alberta,4276444,prairie-steppe,1012518.0
+66,British Columbia,4991716,western maritime,858450.0
+67,Canada,37072620,continental,6455467.0
+68,Newfoundland and Labrador,528402,humid continental,100218.0
+69,Prince Edward Island,152259,humid continental,20185.0
+70,Nova Scotia,962072,eastern-maritime,128950.0
+71,New Brunswick,770497,semi-continental,106563.0
+72,Quebec,8386951,semi-continental,1261765.0
+73,Ontario,14326746,semi-continental,2478223.0
+74,Manitoba,1352687,cold continental,211358.0
+75,Saskatchewan,1156210,humid continental,242701.0
+76,Alberta,4292556,prairie-steppe,1012518.0
+77,British Columbia,5020979,western maritime,858450.0
+78,Canada,37259485,continental,6455467.0
+79,Newfoundland and Labrador,528926,humid continental,100218.0
+80,Prince Edward Island,153906,humid continental,20185.0
+81,Nova Scotia,967578,eastern-maritime,128950.0
+82,New Brunswick,772793,semi-continental,106563.0
+83,Quebec,8418646,semi-continental,1261765.0
+84,Ontario,14413055,semi-continental,2478223.0
+85,Manitoba,1357856,cold continental,211358.0
+86,Saskatchewan,1159648,humid continental,242701.0
+87,Alberta,4311439,prairie-steppe,1012518.0
+88,British Columbia,5052131,western maritime,858450.0
+89,Canada,37336956,continental,6686164.0
+90,Newfoundland and Labrador,528326,humid continental,103983.0
+91,Prince Edward Island,153881,humid continental,21540.0
+92,Nova Scotia,968724,eastern-maritime,134747.0
+93,New Brunswick,773059,semi-continental,109187.0
+94,Quebec,8430363,semi-continental,1321046.0
+95,Ontario,14449986,semi-continental,2576195.0
+96,Manitoba,1361737,cold continental,215011.0
+97,Saskatchewan,1161529,humid continental,245067.0
+98,Alberta,4324254,prairie-steppe,1031872.0
+99,British Columbia,5061132,western maritime,891628.0
+100,Canada,37437243,continental,6686164.0
+101,Newfoundland and Labrador,527993,humid continental,103983.0
+102,Prince Edward Island,154409,humid continental,21540.0
+103,Nova Scotia,970680,eastern-maritime,134747.0
+104,New Brunswick,774277,semi-continental,109187.0
+105,Quebec,8447632,semi-continental,1321046.0
+106,Ontario,14493612,semi-continental,2576195.0
+107,Manitoba,1364666,cold continental,215011.0
+108,Saskatchewan,1161787,humid continental,245067.0
+109,Alberta,4337569,prairie-steppe,1031872.0
+110,British Columbia,5080515,western maritime,891628.0
+111,Canada,37618495,continental,6686164.0
+112,Newfoundland and Labrador,527643,humid continental,103983.0
+113,Prince Edward Island,155792,humid continental,21540.0
+114,Nova Scotia,975799,eastern-maritime,134747.0
+115,New Brunswick,777387,semi-continental,109187.0
+116,Quebec,8483186,semi-continental,1321046.0
+117,Ontario,14573565,semi-continental,2576195.0
+118,Manitoba,1370033,cold continental,215011.0
+119,Saskatchewan,1164223,humid continental,245067.0
+120,Alberta,4355377,prairie-steppe,1031872.0
+121,British Columbia,5111022,western maritime,891628.0
+122,Canada,37828162,continental,6686164.0
+123,Newfoundland and Labrador,528442,humid continental,103983.0
+124,Prince Edward Island,157025,humid continental,21540.0
+125,Nova Scotia,982592,eastern-maritime,134747.0
+126,New Brunswick,780907,semi-continental,109187.0
+127,Quebec,8521542,semi-continental,1321046.0
+128,Ontario,14666727,semi-continental,2576195.0
+129,Manitoba,1373884,cold continental,215011.0
+130,Saskatchewan,1167271,humid continental,245067.0
+131,Alberta,4376860,prairie-steppe,1031872.0
+132,British Columbia,5148047,western maritime,891628.0
+133,Canada,37928208,continental,6498011.0
+134,Newfoundland and Labrador,528231,humid continental,93964.0
+135,Prince Edward Island,157494,humid continental,21913.0
+136,Nova Scotia,984130,eastern-maritime,134171.0
+137,New Brunswick,781054,semi-continental,108187.0
+138,Quebec,8537376,semi-continental,1317417.0
+139,Ontario,14718155,semi-continental,2554879.0
+140,Manitoba,1377283,cold continental,212321.0
+141,Saskatchewan,1169426,humid continental,227117.0
+142,Alberta,4392958,prairie-steppe,893021.0
+143,British Columbia,5157053,western maritime,898645.0
+144,Canada,38006941,continental,6498011.0
+145,Newfoundland and Labrador,527733,humid continental,93964.0
+146,Prince Edward Island,158401,humid continental,21913.0
+147,Nova Scotia,986204,eastern-maritime,134171.0
+148,New Brunswick,782512,semi-continental,108187.0
+149,Quebec,8550900,semi-continental,1317417.0
+150,Ontario,14752374,semi-continental,2554879.0
+151,Manitoba,1379280,cold continental,212321.0
+152,Saskatchewan,1169038,humid continental,227117.0
+153,Alberta,4405455,prairie-steppe,893021.0
+154,British Columbia,5169535,western maritime,898645.0
+155,Canada,38028638,continental,6498011.0
+156,Newfoundland and Labrador,526884,humid continental,93964.0
+157,Prince Edward Island,159193,humid continental,21913.0
+158,Nova Scotia,989168,eastern-maritime,134171.0
+159,New Brunswick,783432,semi-continental,108187.0
+160,Quebec,8551095,semi-continental,1317417.0
+161,Ontario,14761811,semi-continental,2554879.0
+162,Manitoba,1380132,cold continental,212321.0
+163,Saskatchewan,1167386,humid continental,227117.0
+164,Alberta,4407495,prairie-steppe,893021.0
+165,British Columbia,5176101,western maritime,898645.0
+166,Canada,38027406,continental,6498011.0
+167,Newfoundland and Labrador,526046,humid continental,93964.0
+168,Prince Edward Island,159179,humid continental,21913.0
+169,Nova Scotia,989154,eastern-maritime,134171.0
+170,New Brunswick,783814,semi-continental,108187.0
+171,Quebec,8551865,semi-continental,1317417.0
+172,Ontario,14757582,semi-continental,2554879.0
+173,Manitoba,1381809,cold continental,212321.0
+174,Saskatchewan,1165963,humid continental,227117.0
+175,Alberta,4412013,prairie-steppe,893021.0
+176,British Columbia,5173896,western maritime,898645.0
+177,Canada,38058291,continental,7325247.0
+178,Newfoundland and Labrador,525895,humid continental,111170.0
+179,Prince Edward Island,159240,humid continental,24992.0
+180,Nova Scotia,990025,eastern-maritime,147051.0
+181,New Brunswick,784950,semi-continental,119384.0
+182,Quebec,8550561,semi-continental,1459145.0
+183,Ontario,14772726,semi-continental,2789165.0
+184,Manitoba,1383854,cold continental,230683.0
+185,Saskatchewan,1166348,humid continental,257981.0
+186,Alberta,4418338,prairie-steppe,1110447.0
+187,British Columbia,5180015,western maritime,1034003.0
+188,Canada,38140918,continental,7325247.0
+189,Newfoundland and Labrador,526195,humid continental,111170.0
+190,Prince Edward Island,160334,humid continental,24992.0
+191,Nova Scotia,993946,eastern-maritime,147051.0
+192,New Brunswick,787002,semi-continental,119384.0
+193,Quebec,8556015,semi-continental,1459145.0
+194,Ontario,14808093,semi-continental,2789165.0
+195,Manitoba,1388611,cold continental,230683.0
+196,Saskatchewan,1167711,humid continental,257981.0
+197,Alberta,4425617,prairie-steppe,1110447.0
+198,British Columbia,5200393,western maritime,1034003.0
+199,Canada,38239864,continental,7325247.0
+200,Newfoundland and Labrador,527056,humid continental,111170.0
+201,Prince Edward Island,162133,humid continental,24992.0
+202,Nova Scotia,999908,eastern-maritime,147051.0
+203,New Brunswick,790802,semi-continental,119384.0
+204,Quebec,8572020,semi-continental,1459145.0
+205,Ontario,14842488,semi-continental,2789165.0
+206,Manitoba,1391924,cold continental,230683.0
+207,Alberta,4431531,prairie-steppe,1110447.0
+208,British Columbia,5226665,western maritime,1034003.0
+209,Canada,38451454,continental,7325247.0
+210,Newfoundland and Labrador,528335,humid continental,111170.0
+211,Prince Edward Island,163775,humid continental,24992.0
+212,Nova Scotia,1006805,eastern-maritime,147051.0
+213,New Brunswick,795755,semi-continental,119384.0
+214,Quebec,8603553,semi-continental,1459145.0
+215,Ontario,14942272,semi-continental,2789165.0
+216,Manitoba,1396460,cold continental,230683.0
+217,Saskatchewan,1168901,humid continental,257981.0
+218,Alberta,4450442,prairie-steppe,1110447.0
+219,British Columbia,5267184,western maritime,1034003.0
+220,Canada,38567576,continental,8155666.0
+221,Newfoundland and Labrador,528977,humid continental,118283.0
+222,Prince Edward Island,164195,humid continental,27196.0
+223,Nova Scotia,1010460,eastern-maritime,156734.0
+224,New Brunswick,798656,semi-continental,127780.0
+225,Quebec,8613999,semi-continental,1573003.0
+226,Ontario,14999441,semi-continental,3026831.0
+227,Manitoba,1400663,cold continental,249750.0
+228,Saskatchewan,1171031,humid continental,333115.0
+229,Alberta,4465537,prairie-steppe,1354364.0
+230,British Columbia,5286478,western maritime,1144130.0
+231,Canada,38683567,continental,8155666.0
+232,Newfoundland and Labrador,529249,humid continental,118283.0
+233,Prince Edward Island,165524,humid continental,27196.0
+234,Nova Scotia,1014827,eastern-maritime,156734.0
+235,New Brunswick,801778,semi-continental,127780.0
+236,Quebec,8627524,semi-continental,1573003.0
+237,Ontario,15046211,semi-continental,3026831.0
+238,Manitoba,1405197,cold continental,249750.0
+239,Saskatchewan,1173366,humid continental,333115.0
+240,Alberta,4480956,prairie-steppe,1354364.0
+241,British Columbia,5310164,western maritime,1144130.0
+242,Canada,38939056,continental,8155666.0
+243,Newfoundland and Labrador,531583,humid continental,118283.0
+244,Prince Edward Island,167188,humid continental,27196.0
+245,Nova Scotia,1025445,eastern-maritime,156734.0
+246,New Brunswick,809568,semi-continental,127780.0
+247,Quebec,8672185,semi-continental,1573003.0
+248,Ontario,15145006,semi-continental,3026831.0
+249,Manitoba,1413409,cold continental,249750.0
+250,Saskatchewan,1178422,humid continental,333115.0
+251,Alberta,4510891,prairie-steppe,1354364.0
+252,British Columbia,5356284,western maritime,1144130.0
+253,Canada,39276140,continental,8155666.0
+254,Newfoundland and Labrador,533444,humid continental,118283.0
+255,Prince Edward Island,169146,humid continental,27196.0
+256,Nova Scotia,1035666,eastern-maritime,156734.0
+257,New Brunswick,817766,semi-continental,127780.0
+258,Quebec,8730868,semi-continental,1573003.0
+259,Ontario,15283961,semi-continental,3026831.0
+260,Manitoba,1423596,cold continental,249750.0
+261,Saskatchewan,1187607,humid continental,333115.0
+262,Alberta,4561350,prairie-steppe,1354364.0
+263,British Columbia,5403528,western maritime,1144130.0
+264,Canada,39498018,continental,8457425.641999999
+265,Newfoundland and Labrador,534964,humid continental,28202.251999999997
+266,Prince Edward Island,169935,humid continental,345440.25499999995
+267,Nova Scotia,1040195,eastern-maritime,162533.158
+268,New Brunswick,820943,semi-continental,8457425.641999999
+269,Quebec,8767038,semi-continental,132507.86
+270,Ontario,15378179,semi-continental,1631204.1109999998
+271,Manitoba,1432674,cold continental,3138823.747
+272,Saskatchewan,1194869,humid continental,1186462.8099999998
+273,Alberta,4598444,prairie-steppe,258990.74999999997
+274,British Columbia,5431355,western maritime,1404475.4679999999
+275,Canada,39739633,continental,8457425.641999999
+276,Newfoundland and Labrador,536291,humid continental,28202.251999999997
+277,Prince Edward Island,171790,humid continental,345440.25499999995
+278,Nova Scotia,1047803,eastern-maritime,162533.158
+279,New Brunswick,826622,semi-continental,8457425.641999999
+280,Quebec,8814007,semi-continental,132507.86
+281,Ontario,15457075,semi-continental,1631204.1109999998
+282,Manitoba,1443875,cold continental,3138823.747
+283,Saskatchewan,1200540,humid continental,1186462.8099999998
+284,Alberta,4645229,prairie-steppe,258990.74999999997
+285,British Columbia,5466646,western maritime,1404475.4679999999
+286,Canada,40097761,continental,8457425.641999999
+287,Newfoundland and Labrador,538605,humid continental,28202.251999999997
+288,Prince Edward Island,173787,humid continental,345440.25499999995
+289,Nova Scotia,1058694,eastern-maritime,162533.158
+290,New Brunswick,834691,semi-continental,8457425.641999999
+291,Quebec,8874683,semi-continental,132507.86
+292,Ontario,15608369,semi-continental,1631204.1109999998
+293,Manitoba,1454902,cold continental,3138823.747
+294,Saskatchewan,1209107,humid continental,1186462.8099999998
+295,Alberta,4695290,prairie-steppe,258990.74999999997
+296,British Columbia,5519013,western maritime,1404475.4679999999
+297,Canada,40528396,continental,8457425.641999999
+298,Newfoundland and Labrador,540418,humid continental,28202.251999999997
+299,Prince Edward Island,175853,humid continental,345440.25499999995
+300,Nova Scotia,1066416,eastern-maritime,162533.158
+301,New Brunswick,842725,semi-continental,8457425.641999999
+302,Quebec,8948540,semi-continental,132507.86
+303,Ontario,15801768,semi-continental,1631204.1109999998
+304,Manitoba,1465440,cold continental,3138823.747
+305,Saskatchewan,1218976,humid continental,1186462.8099999998
+306,Alberta,4756408,prairie-steppe,258990.74999999997
+307,British Columbia,5581127,western maritime,1404475.4679999999
